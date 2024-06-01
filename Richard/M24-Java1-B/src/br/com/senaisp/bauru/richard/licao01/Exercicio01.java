@@ -1,6 +1,5 @@
 package br.com.senaisp.bauru.richard.licao01;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Exercicio01 {
